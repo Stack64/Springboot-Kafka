@@ -1,0 +1,9 @@
+package com.example.consumer;
+
+import org.springframework.stereotype.Component;
+
+import org.springframework.context.ApplicationContextAware;
+@Component
+public class ApplicationContextAwareImpl extends ApplicationContextAware {
+	
+}
