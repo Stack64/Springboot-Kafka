@@ -1,7 +1,0 @@
-package com.example.consumer;
-
-public class EmployeeConsumer extends Thread {
-
-	private static final Logger logger = LoggerFactory.getLogger(EmployeeConsumer.class);
-
-}
